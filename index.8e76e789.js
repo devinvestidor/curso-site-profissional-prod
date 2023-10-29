@@ -30,6 +30,6 @@
    * Animation on scroll
    */window.addEventListener("load",()=>{AOS.init({duration:1e3,easing:"ease-in-out",once:!0,mirror:!1})}),/**
    * Initiate Pure Counter 
-   */new PureCounter}();//# sourceMappingURL=index.60a92752.js.map
+   */new PureCounter}();//# sourceMappingURL=index.8e76e789.js.map
 
-//# sourceMappingURL=index.60a92752.js.map
+//# sourceMappingURL=index.8e76e789.js.map
